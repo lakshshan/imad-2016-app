@@ -22,5 +22,6 @@ body {
 #mycontent
 {
     background-color:#f53b00;
+    background-repeat:repeat-x;
     font-family:sans-serif;
 }
