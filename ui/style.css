@@ -19,9 +19,15 @@ body {
 .img-medium {
     height: 200px;
 }
-#mycontent
+.homepg
 {
-    background-color:#f53b00;
-    background-repeat:repeat-x;
-    font-family:sans-serif;
+    height:100%;
+    width:100%;
+    background-color:rgba(0,0,0,.5);
+    background-size:cover;
+    background-attachement:fixed;
+}
+.sect
+{
+    backround-image:url("../")
 }
