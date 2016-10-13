@@ -28,5 +28,5 @@ html,body {
     background-color:rgba(0,0,0,.5);
     background-size:cover;
     background-attachement:fixed;
-    backround-image:url("../home.jpg");
+    backround-image:url("../ui/home.jpg");
 }
