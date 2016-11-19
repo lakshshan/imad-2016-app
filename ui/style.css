@@ -53,7 +53,7 @@ font-size:17px;
 color:#FFFFFF;
 background-size:cover;
 background-attachment:fixed;
-background-image:url(ui/sub1.jpg);
+background-image:url(/ui/sub1.jpg);
 background-color:#996600;
 
 border-bottom:groove;
@@ -66,14 +66,15 @@ border-top-width:thick;
 }
 .sectone
 {
-background-image:url(imad-2016-app/ui/image1.jpg);
+background-image:url(/imad-2016-app/ui/image1.jpg);
+
 }
 .secttwo
 {
-background-image:url(ui/image2.jpg);
+background-image:url(/imad-2016-app/ui/image2.jpg);
 }
 .sectthree
 {
-background-image:url(ui/image6.jpg);
+background-image:url(/imad-2016-app/ui/image6.jpg);
 }
 
